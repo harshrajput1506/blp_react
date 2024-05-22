@@ -18,7 +18,7 @@ export const navItems = [
   { label: "FAQs", href: "/faq" },
 ];
 
-export const appName = "BHARTIYA LIBERAL PARTY";
+export const appName = "BHARATIYA LIBERAL PARTY";
 
 export const hindiAppName = "भारतीय लिबरल पार्टी";
 
