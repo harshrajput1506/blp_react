@@ -13,7 +13,7 @@ function JoinSection() {
             className="mt-8 py-3 px-6 bg-mehroon text-white rounded-full font-medium text-sm"
             to="https://forms.gle/jmqQB4dVsJBV4SQz7"
           >
-            FILL THE FORM
+            Fill The Form
           </Link>       
           </div>
         </div>

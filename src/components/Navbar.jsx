@@ -37,7 +37,7 @@ function Navbar() {
               className=" py-2 px-6 border-2 border-mehroon text-mehroon rounded-full font-semibold hover:bg-mehroon hover:text-white transition-colors"
               href="/about"
             >
-              KNOW MORE
+              Know More
             </a>
           </div>
           <div className="lg:hidden md:flex flex-col justify-end">
@@ -67,7 +67,7 @@ function Navbar() {
                 className="py-2 px-6 border-2 border-mehroon text-mehroon rounded-full font-semibold"
                 href="/about"
               >
-                KNOW MORE
+                Know More
               </a>
             </div>
           </div>
