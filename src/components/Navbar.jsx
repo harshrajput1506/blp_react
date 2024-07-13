@@ -35,9 +35,9 @@ function Navbar() {
           <div className="hidden lg:flex justify-center items-center">
             <a
               className=" py-2 px-6 border-2 border-mehroon text-mehroon rounded-full font-semibold hover:bg-mehroon hover:text-white transition-colors"
-              href="#"
+              href="/about"
             >
-              Login
+              KNOW MORE
             </a>
           </div>
           <div className="lg:hidden md:flex flex-col justify-end">
@@ -65,9 +65,9 @@ function Navbar() {
             <div className="mt-4">
               <a
                 className="py-2 px-6 border-2 border-mehroon text-mehroon rounded-full font-semibold"
-                href="#"
+                href="/about"
               >
-                Login
+                KNOW MORE
               </a>
             </div>
           </div>

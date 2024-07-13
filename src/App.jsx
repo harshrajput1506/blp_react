@@ -7,6 +7,7 @@ import IdeologySection from "./components/IdeologySection";
 import ReformsSection from "./components/ReformsSection";
 import SupportSection from "./components/SupportSection";
 import Footer from "./components/Footer";
+import JoinSection from "./components/JoinSection";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <IdeologySection />
       <ReformsSection />
       <SupportSection />
+      <JoinSection/>
       <Footer />
     </div>
   );
