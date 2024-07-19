@@ -11,9 +11,9 @@ const ReformsSection = () => {
             <h1 className=" text-7xl font-bold text-turmericYellow opacity-25">
               {index + 1}
             </h1>
-            <p className="text-sm p-2">{reform}</p>
+            <p className="text-base p-2">{reform}</p>
           </div>
-        ))}
+        ))} 
       </div>
     </div>
   );

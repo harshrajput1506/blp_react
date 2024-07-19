@@ -6,8 +6,8 @@ const MissionSection = () => {
       <div className="space-y-5">
         <h1 className=" text-5xl font-bold text-center">OUR MISSION</h1>
         <p className=" text-lg max-w-4xl text-center opacity-80">
-          “Good Governance based upon smart economic policy <br />
-          REFOMRS! REFORMS! REFORMS! - Electoral, judicial, administrative.”
+          “Eliminating Corruption and making Social Justice a reality for Delhi.  <br />
+          Working tirelessly for Vanchit (Deprived), Pichhda (Backward) and Shoshit (Marginalized).”
         </p>
       </div>
     </div>
