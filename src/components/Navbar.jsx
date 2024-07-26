@@ -23,7 +23,7 @@ function Navbar() {
               return (
                 <li key={index}>
                   <NavLink
-                    className="font-medium text-lg hover:text-turmericYellow"
+                    className="font-medium text-lg hover:text-primary"
                     to={item.href}
                   >
                     {item.label}
@@ -34,7 +34,7 @@ function Navbar() {
           </ul>
           <div className="hidden lg:flex justify-center items-center">
             <a
-              className=" py-2 px-6 border-2 border-mehroon text-mehroon rounded-full font-semibold hover:bg-mehroon hover:text-white transition-colors"
+              className=" py-2 px-6 border-2 border-secondary text-secondary rounded-full font-semibold hover:bg-secondary hover:text-white transition-colors"
               href="/about"
             >
               Know More
@@ -64,7 +64,7 @@ function Navbar() {
             </ul>
             <div className="mt-4">
               <a
-                className="py-2 px-6 border-2 border-mehroon text-mehroon rounded-full font-semibold"
+                className="py-2 px-6 border-2 border-secondary text-secondary rounded-full font-semibold"
                 href="/about"
               >
                 Know More

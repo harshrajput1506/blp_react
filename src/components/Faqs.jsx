@@ -7,7 +7,7 @@ const Faqs = () => {
     <div className=" bg-backgroud min-h-screen px-10 min-w-fit">
       <Navbar />
       <div className="mt-20 max-w-7xl mx-auto flex flex-col space-y-10">
-        <h1 className="text-7xl text-turmericYellow font-bold opacity-30">
+        <h1 className="text-7xl text-primary font-bold opacity-30">
           FAQs
         </h1>
         <div className="space-y-2">

@@ -6,7 +6,7 @@ function About() {
     <div className=" bg-backgroud min-h-screen px-10 min-w-fit">
       <Navbar />
       <div className="mt-20 max-w-7xl mx-auto flex flex-col">
-        <h1 className="text-7xl text-turmericYellow font-bold opacity-30">
+        <h1 className="text-7xl text-primary font-bold opacity-30">
           ABOUT US
         </h1>
         <p className="mt-10 text-xl">
@@ -25,7 +25,7 @@ function About() {
         2025 में भारतीय लिबरल पार्टी को चुनिए व सच की राजनीति का हिस्सा बनिए
         </div>
 
-        <h1 className="text-7xl text-turmericYellow font-bold opacity-30 mt-20">
+        <h1 className="text-7xl text-primary font-bold opacity-30 mt-20">
         BLP’s FOCUS
         </h1>
         <div className="mt-8 text-lg opacity-80 max-w-fit">

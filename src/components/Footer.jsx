@@ -22,7 +22,7 @@ const Footer = () => {
                   >
                     <Icon />
                     <Link
-                      className="text-sm hover:text-turmericYellow"
+                      className="text-sm hover:text-primary"
                       to={social.link}
                     >
                       {social.label}
@@ -36,9 +36,13 @@ const Footer = () => {
             <h1 className="text-2xl font-semibold text-center md:text-start">
               {hindiAppName}
             </h1>
+            <div className="space-x-2 text-sm flex flex-row justify-start items-center">
+              <Phone />
+              <h1>फ़ोन / Whatsapp: +91 9821578507</h1>
+            </div>
             <div className="space-x-2 text-sm flex flex-row justify-center items-center">
               <Phone />
-              <h1>फ़ोन / Whatsapp: +91 98215 78507</h1>
+              <h1>Missed Call Number: +91 9821333800</h1>
             </div>
             <div className="space-x-2 text-sm flex flex-row justify-center items-center md:justify-start">
               <Mail />

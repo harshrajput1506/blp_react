@@ -4,10 +4,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        turmericYellow: "#A08135",
-        mehroon: "#800000",
-        backgroud: "#FAF8F5",
-        secondaryBackground: "#E2D8C1",
+        primary: "#102A71",
+        secondary: "#001840",
+        backgroud: "#FAFAFA",
+        secondaryBackground: "#FFFDF0",
       },
     },
   },

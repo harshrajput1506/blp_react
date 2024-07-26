@@ -1,6 +1,16 @@
 import goalImg from "../assets/goal.svg";
 import flagImg from "../assets/flag.svg";
 import accountImg from "../assets/account.svg";
+import galleryImg1 from "../assets/gallery/gallery_img_1.jpg"
+import galleryImg2 from "../assets/gallery/gallery_img_2.jpg"
+import galleryImg3 from "../assets/gallery/gallery_img_3.jpg"
+import galleryImg4 from "../assets/gallery/gallery_img_4.jpg"
+import galleryImg5 from "../assets/gallery/gallery_img_5.jpg"
+import galleryImg6 from "../assets/gallery/gallery_img_6.jpg"
+import galleryImg7 from "../assets/gallery/gallery_img_7.jpg"
+import galleryImg8 from "../assets/gallery/gallery_img_8.jpg"
+import galleryImg9 from "../assets/gallery/gallery_img_9.jpg"
+import galleryImg10 from "../assets/gallery/gallery_img_10.jpg"
 import {
   Facebook,
   Instagram,
@@ -44,6 +54,19 @@ export const ideologies = [
   },
 ];
 
+export const galleries = [
+  galleryImg1,
+  galleryImg2,
+  galleryImg3,
+  galleryImg4,
+  galleryImg5,
+  galleryImg6,
+  galleryImg7,
+  galleryImg8,
+  galleryImg9,
+  galleryImg10
+];
+
 export const reforms = [
   `भारतीय लिबरल पार्टी(BLP) सरकार दिल्ली में फ्री बिजली, फ्री पानी स्कीम और साथ ही महिलाओं को फ्री DTC पास मुहैया करवाई जाएगी। महिलाओं को 1500 रुपये प्रति माह स्कीम दी जाएगी।`,
 
@@ -77,7 +100,7 @@ export const socials = [
 
   {
     label: "Youtube",
-    link: "https://www.youtube.com/@joinblp",
+    link: "https://youtube.com/@bharatiyaliberalparty?si=gok8uMshRs3nNB9I",
     icon: Youtube,
   },
 

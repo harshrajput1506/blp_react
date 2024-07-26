@@ -8,6 +8,7 @@ import ReformsSection from "./components/ReformsSection";
 import SupportSection from "./components/SupportSection";
 import Footer from "./components/Footer";
 import JoinSection from "./components/JoinSection";
+import Gallery from "./components/GallerySection";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <MissionSection />
       <IdeologySection />
       <ReformsSection />
+      <Gallery/>
       <SupportSection />
       <JoinSection/>
       <Footer />

@@ -6,7 +6,7 @@ const SupportSection = () => {
   return (
     <div className="mt-24 max-w-7xl mx-auto flex lg:flex-row flex-col justify-evenly items-center">
       <div className="space-y-5">
-        <h1 className=" text-5xl font-bold mt-16 text-center md:text-start">
+        <h1 className=" text-5xl font-bold mt-16 text-center md:text-start text-primary">
           SUPPORT US
         </h1>
         <p className=" text-lg max-w-4xl opacity-80">{supportMsg}</p>
